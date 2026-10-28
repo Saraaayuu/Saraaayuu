@@ -7,7 +7,6 @@ I enjoy algorithms, machine learning, distributed systems and hardware design.
 ### Projects
 
 - [hex-pathfinding-c](https://github.com/Saraaayuu/hex-pathfinding-c): Dijkstra-based pathfinding engine in C with a hash map cache, on a hexagonal grid.
-- [task-list-vhdl](https://github.com/Saraaayuu/task-list-vhdl): priority-ordered task list manager as a synchronous FSM in VHDL, synthesized with Vivado.
 - Mesos: distributed client-server board game in Java (JavaFX, Socket/RMI) built in a team of four. The repository is private.
 
 ### Contact
